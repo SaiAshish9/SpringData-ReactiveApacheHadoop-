@@ -9,3 +9,8 @@ and Flux is more relatable to List since it can have N number of values.
 
 https://www.baeldung.com/java-reactor-flux-vs-mono
 ```
+
+<img width="683" alt="Screenshot 2023-03-24 at 11 19 17 PM" src="https://user-images.githubusercontent.com/43849911/227602086-0c5f7887-d919-4ae0-86f0-14fa5d7d6a67.png">
+
+<img width="687" alt="Screenshot 2023-03-24 at 11 19 30 PM" src="https://user-images.githubusercontent.com/43849911/227602129-8486a14d-2595-4d93-a432-e181b22563cb.png">
+
